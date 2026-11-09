@@ -87,4 +87,3 @@ Use any tools you like, AI agents included; we are as interested in your judgeme
 ## More info :bank:
 
  - [OMIE - Mercado de electricidad](https://www.omie.es/es/mercado-de-electricidad)
- - [OMIE - Electricity market](https://www.omie.es/en/mercado-de-electricidad)
