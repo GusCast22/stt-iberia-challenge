@@ -85,8 +85,7 @@ The questions above do not prescribe how to use everything you are given, nor wh
 
 ### What we expect you to hand in :package:
 
-1. A memo of 1-2 pages: approach, results, assumptions, limitations and what you would do next.
-2. Your code, reproducible end to end (notebooks or scripts, your choice).
+Your code, reproducible end to end, as a notebook or scripts (your choice). There is no separate memo: explain your approach, results, assumptions, limitations and what you would do next in the code itself, for example in markdown cells if you use a notebook.
 
 Use any tools you like, AI agents included; we are as interested in your judgement as in your numbers. Assumptions that are not stated here are up to you, but they must be justified.
 
