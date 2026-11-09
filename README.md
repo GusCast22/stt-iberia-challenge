@@ -2,9 +2,15 @@
 
 ## Who we are :circus_tent:
 
-We are the Short-Term Optimisation team of the Iberia desk within SEM, part of [ENGIE](https://www.engie.com/), one of the largest global energy players.
+We are the Short Term Trading (STT) team of the Iberia desk within S&EM, part of [ENGIE](https://www.engie.com/), one of the largest global energy players. Our mission is simple to say and hard to do: **optimise assets and trade in the physical power markets of Spain and Portugal**, maximising the value we generate while keeping imbalances low and respecting regulation.
 
-We cover the activities in Spain & Portugal, working in small teams that mix people with experience in energy markets, IT and modelling. We trade and optimise assets in the day-ahead and intraday markets of [OMIE](https://www.omie.es/en), and we [work with the TSO to balance the grid](https://en.wikipedia.org/wiki/Transmission_system_operator#Electricity_market_operations). A growing part of what we do is making batteries and solar plants earn their keep in these markets: deciding when to charge, when to discharge and which market to sell in, with imperfect information and real physical limits.
+**What we look after.** A diversified Iberian portfolio: hydro (including pumped storage), wind and solar, gas-fired plants, supply to business customers, and a growing fleet of batteries (BESS).
+
+**Where we trade.** Every day we bid in the [OMIE](https://www.omie.es/en) day-ahead market, adjust positions in the intraday auctions and the continuous intraday market, offer flexibility to the TSO in the balancing and ancillary-service markets, and manage the resulting imbalances. Markets are moving to 15-minute products, so resolution matters.
+
+**How a day looks.** Decisions start the day before delivery, with forecasts, asset availability and constraints feeding the day-ahead bids. From then on we keep re-optimising as new information arrives: updated prices and weather, unplanned outages, market opportunities. A 24/7 shift team in Madrid executes the strategies, while the control centres operate the assets physically.
+
+**Who we are.** Traders and shift operators, an analytics and market intelligence group that builds the models and algorithms behind our strategies, and dedicated IT colleagues who put them into production. We are a small team where people with market, modelling and software backgrounds work side by side.
 
 ## Welcome! :wave:
 
