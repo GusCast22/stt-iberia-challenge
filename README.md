@@ -4,7 +4,7 @@
 
 We are the Short-Term Optimisation team of the Iberia desk within SEM, part of [ENGIE](https://www.engie.com/), one of the largest global energy players.
 
-We cover the activities in Spain & Portugal, working in small teams that mix people with experience in energy markets, IT and modelling. We trade and optimise assets in the [day-ahead](https://en.wikipedia.org/wiki/European_Power_Exchange#Day-ahead_markets) and [intraday](https://en.wikipedia.org/wiki/European_Power_Exchange#Intraday_markets) markets, and we [work with the TSO to balance the grid](https://en.wikipedia.org/wiki/Transmission_system_operator#Electricity_market_operations). A growing part of what we do is making batteries and solar plants earn their keep in these markets: deciding when to charge, when to discharge and which market to sell in, with imperfect information and real physical limits.
+We cover the activities in Spain & Portugal, working in small teams that mix people with experience in energy markets, IT and modelling. We trade and optimise assets in the day-ahead and intraday markets of [OMIE](https://www.omie.es/en), and we [work with the TSO to balance the grid](https://en.wikipedia.org/wiki/Transmission_system_operator#Electricity_market_operations). A growing part of what we do is making batteries and solar plants earn their keep in these markets: deciding when to charge, when to discharge and which market to sell in, with imperfect information and real physical limits.
 
 ## Welcome! :wave:
 
@@ -45,8 +45,14 @@ Everything lives in [`test_bess/data/`](test_bess/data), each file as `.parquet`
 |---|---|
 | `timestamp_local` | Interval start, Spain local clock |
 | `da_price_obs` | OMIE day-ahead price, observed |
-| `da_price_fcst` | Day-ahead price forecast, as available before the day-ahead gate closure of D-1 |
 | `ida1_price_obs` | IDA1 (first intraday auction) price, observed |
+
+**`da_price_fcst_es_local`**: day-ahead price forecast, EUR/MWh
+
+| Column | Description |
+|---|---|
+| `timestamp_local` | Delivery interval start, Spain local clock |
+| `da_price_fcst` | Day-ahead price forecast, as available before the day-ahead gate closure of D-1 |
 
 **`pv_production_utc`**: PV production
 
@@ -81,4 +87,4 @@ Use any tools you like, AI agents included; we are as interested in your judgeme
 ## More info :bank:
 
  - [OMIE - Mercado de electricidad](https://www.omie.es/es/mercado-de-electricidad)
- - [EPEX SPOT - Day-ahead and intraday markets](https://en.wikipedia.org/wiki/European_Power_Exchange)
+ - [OMIE - Electricity market](https://www.omie.es/en/mercado-de-electricidad)
